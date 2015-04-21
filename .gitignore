@@ -58,4 +58,4 @@ target/
 
 # Custom
 settings.py
-deploy.py
+deploy.sh
